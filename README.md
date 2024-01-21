@@ -4,7 +4,7 @@ This project shows how to deploy an echo-chatbot app to the Azure cloud
 # Getting Started
 Dependencies
 Prerequisites
-1. App ready. In this project, the app is called "echo-bot" from the github
+1. App ready. In this project, the app is called "echo-bot" from the github https://learn.microsoft.com/en-us/azure/bot-service/provision-and-publish-a-bot?view=azure-bot-service-4.0&tabs=multitenant%2Cpython
 2. Azure account ready.
 3. 
 ex. Windows 10
