@@ -1,12 +1,7 @@
-# chatbot-azure
+## chatbot-azure
+This project shows how to deploy an echo-chatbot app to the Azure cloud
 
-Project Title
-This project shows how to deploy an echo-chatbot app to Azure cloud
-
-Description
-An in-depth paragraph about your project and overview of use.
-
-Getting Started
+# Getting Started
 Dependencies
 Prerequisites
 1. App ready. In this project, the app is called "echo-bot" from the github
@@ -32,7 +27,7 @@ Help
 Any advice for common problems or issues.
 1. Apply log stream for monitoring. Either in CLI or Azure app service
 2. Edit the config.py in your folder with your ID and key_value of your Microsoft Azure account
-3. Set up the start-up program in the app service, general setting tab.
+3. Set up the start-up program in the app service, general setting tab. link:https://learn.microsoft.com/en-us/azure/developer/python/configure-python-web-app-on-app-service
 command to run if program contains helper info
 Authors
 Contributors names and contact info
